@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi 👋 My name is Katkov Matvei
 <div id="header" align="center">
-  <img src="assets/Animated-avatar.gif" width="100"/>
+  <img src="assets/Animated-avatar.gif" width="300"/>
 </div>
 ==============================
 
