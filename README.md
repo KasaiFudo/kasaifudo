@@ -1,25 +1,29 @@
-### Hi there 👋
-Hi 👋 My name is Katkov Matvei
+## 🚀 Hello there! I'm Matvey Katkov
+Работал в последнее время над разными личными проектами для расширения своих навыков. Это физика, анимации, логика(математика), алгоритмы. Сейчас понемногу добавляю свои проекты в гит, есть еще что залить и поделиться. Говоря о личности: провожу прямые трансляции и игры по DnD, поэтому легко нахожу слова и вливаюсь компанию.
+
 <div id="header" align="center">
   <img src="assets/Animated-avatar.gif" width="300"/>
 </div>
-==============================
 
-About me: Работал в последнее время над разными личными проектами для расширения своих навыков. Это физика, анимации, логика(математика), алгоритмы. Сейчас понемногу добавляю свои проекты в гит, есть еще что залить и поделиться. Говоря о личности: провожу прямые трансляции и игры по DnD, поэтому легко нахожу слова и вливаюсь в люди.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Ekaterinburg, Novosibirsk
-* ✉️  You can contact me at [KasaiFudo@yandex.ru](mailto:KasaiFudo@yandex.ru)
+## 🧑🏻‍💻 My projects
 
-<a href="https://www.twitch.tv/https://www.twitch.tv/taimastavern" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/https://www.twitch.tv/taimastavern?logo=twitchsx&style=for-the-badge&color=ffffff&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Skills
+ - [Endless Terrain Map Generation](https://github.com/KasaiFudo/EndlessMapGeneration) - генерация бесконечного мира созданая в целях обучения построения кода.
+ - [Tower Defence](https://github.com/KasaiFudo/TowerDefence) - мой пет проект который сделан в минималистичном стиле с целями внедрения изученных наработок. 
+ - [NeuralNetworkBalls](https://github.com/KasaiFudo/NeuralNetworkBalls) - Небольшой проект созданный на ранних этапах с нейронными шариками, которые самообучаются искать и прокладывать путь до цели.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+ Добавляю новые интересные проекты по мере времени тут
 
-### Socials
 
-<p align="left"> <a href="https://discord.com/users/KasaiFudo#5881" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/https://github.com/KasaiFudo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/https://www.twitch.tv/taimastavern" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+## 🛠 Skills
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+## 🔗 Links
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/KasaiFudo)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/kasaifudo)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/taimastavern)
