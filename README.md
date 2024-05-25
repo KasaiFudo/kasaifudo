@@ -8,7 +8,7 @@
 
 ## 🧑🏻‍💻 My projects
 
- - [Mini Pinball](https://taimas-tavern.itch.io/mini-pinball) - Моя игра с новой интерпретацией классического [Реп здесь](Pinball.https://github.com/KasaiFudo/MiniPinball) 
+ - [Mini Pinball](https://taimas-tavern.itch.io/mini-pinball) - Моя игра с новой интерпретацией классического [Реп здесь](https://github.com/KasaiFudo/MiniPinball)
  - [Endless Terrain Map Generation](https://github.com/KasaiFudo/EndlessMapGeneration) - генерация бесконечного мира созданая в целях обучения построения кода.
  - [Tower Defence](https://github.com/KasaiFudo/TowerDefence) - мой пет проект который сделан в минималистичном стиле с целями внедрения изученных наработок. 
  - [NeuralNetworkBalls](https://github.com/KasaiFudo/NeuralNetworkBalls) - Небольшой проект созданный на ранних этапах с нейронными шариками, которые самообучаются искать и прокладывать путь до цели.
