@@ -1,34 +1,115 @@
-## 🚀 Hello there! I'm Matvey Katkov
-Работал в последнее время над разными личными проектами для расширения своих навыков. Это физика, анимации, логика(математика), алгоритмы. Сейчас понемногу добавляю свои проекты в гит, есть еще что залить и поделиться. Говоря о личности: провожу прямые трансляции и игры по DnD, поэтому легко нахожу слова и вливаюсь компанию.
+## 🚀 Hi, I'm Matvey Katkov
 
-<div id="header" align="center">
+Unity / C# developer focused on **gameplay systems, AI and experimental mechanics**.
+
+I enjoy building small but complete projects where I can explore:
+- physics-based interactions
+- AI & simple neural networks
+- algorithms and clean code architecture
+- unconventional or playful game mechanics
+
+I also run D&D streams, tabletop games and other games — which helps a lot with communication, improvisation, and teamwork.
+
+<div align="center">
   <img src="assets/Animated-avatar.gif" width="300"/>
 </div>
 
+---
 
-## 🧑🏻‍💻 My projects
+## 🧩 Projects
 
- - [Mini Pinball](https://taimas-tavern.itch.io/mini-pinball) - Моя игра с новой интерпретацией классического [Реп здесь](https://github.com/KasaiFudo/MiniPinball)
- - [Endless Terrain Map Generation](https://github.com/KasaiFudo/EndlessMapGeneration) - генерация бесконечного мира созданая в целях обучения построения кода.
- - [Tower Defence](https://github.com/KasaiFudo/TowerDefence) - мой пет проект который сделан в минималистичном стиле с целями внедрения изученных наработок. 
- - [NeuralNetworkBalls](https://github.com/KasaiFudo/NeuralNetworkBalls) - Небольшой проект созданный на ранних этапах с нейронными шариками, которые самообучаются искать и прокладывать путь до цели.
+- **[Mini Pinball](https://taimas-tavern.itch.io/mini-pinball)**  
+  A modern reinterpretation of classic pinball mechanics.  
+  → Physics tuning, scoring systems, moment-to-moment game feel  
+  → [Repository](https://github.com/KasaiFudo/MiniPinball)
 
- Добавляю новые интересные проекты по мере времени тут
+- **[Endless Terrain Map Generation](https://github.com/KasaiFudo/EndlessMapGeneration)**  
+  Procedural infinite world generation built as a learning project.  
+  → Chunk systems, noise-based generation, performance considerations
 
-## 🧑🏻‍💻 Participated in the development
+- **[Tower Defence](https://github.com/KasaiFudo/TowerDefence)**  
+  Minimalistic tower defense prototype focused on clean architecture.  
+  → Reusable systems, enemy waves, progression logic
 
+- **[NeuralNetworkBalls](https://github.com/KasaiFudo/NeuralNetworkBalls)**  
+  Early experiment with self-learning agents navigating toward a target.  
+  → Simple neural networks, emergent behavior, visualization
 
- - [Prank-Nerf](https://yandex.ru/games/app/352212?utm_campaign=rus_games_brand_yandex_desk_search_exp_all-in-one_460_03.05%7C110685041&utm_medium=search&utm_source=yandex&utm_term=---autotargeting&utm_content=k50id%7C0100000051576024820_51576024820%7Ccid%7C110685041%7Cgid%7C5446358361%7Caid%7C16138294056%7Cadp%7Cno%7Cpos%7Cpremium1%7Csrc%7Csearch_none%7Cdvc%7Cdesktop%7Cmain#app-id=352212&catalog-session-uid=catalog-d930f47f-2967-50c9-a07c-aa9e3acc18cf-1724837035696-b084&rtx-reqid=8878687805361252476&search_query=%D0%BF%D1%80%D0%B0%D0%BD%D0%BA&redir-data=%7B%22http_ref%22%3A%22https%253A%252F%252Fyandex.ru%252Fgames%252Fsearch%253Fk50id%253D0100000051576024820_51576024820%2526yclid%253D4644203632476553215%2526query%253D%2525D0%2525BF%2525D1%252580%2525D0%2525B0%2525D0%2525BD%2525D0%2525BA%2523app%253D352212%22%2C%22rn%22%3A153018439%7D) - Казуальная игра - "Пранк Шутер Нерф", где игрок пранкует соседей и прохожих. Очень много казуальных механик по типу: колеса фортуны, скинов, сундуков, боссов и прохождения уровней. 
+New projects appear here over time 👀
 
-## 🛠 Skills
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
 
+## 🧠 Professional Experience (Selected)
+
+**Unity Developer** — commercial and experimental projects  
+Casual games, mobile & web platforms
+
+- **Prank Shooter Nerf** *(Yandex Games)* — *First commercial project*  
+  👉 https://yandex.com/games/app/352212  
+  Gameplay systems, meta-progression (rewards, skins, chests), boss fights, level flow
+
+- **War of Regions** *(Yandex Games)*  
+  👉 https://yandex.com/games/app/456963  
+  Hex-based strategy, JSON-driven procedural map generation, upgrade systems, card progression
+
+- **Bob the Caveman** *(Yandex Games)*  
+  👉 https://yandex.com/games/app/391490  
+  Story-driven core with multiple modes: Arcade (shooter), Farm (simulation), Cave (customization)
+
+- **Combat Helicopter** *(Yandex Games)*  
+  👉 https://yandex.com/games/app/414183  
+  Action shooter, gunplay feel, weapon upgrades, destruction systems, cosmetics
+
+- **Durak** *(Google Play)*  
+  👉 https://play.google.com/store/apps/details?id=com.vesna.cards.durak  
+  Classic card game, AI opponents (2–6 players), tournament mode, statistics tracking
+
+- **Backgammon** *(Google Play — in progress)*  
+  *(Link will be added once published)*  
+  Short & long modes, AI with multiple difficulty levels, learning-focused design
+
+---
+
+## 🛠 Tech Stack
+
+### Core
+- Unity (2D / 3D)
+- C#
+- Gameplay systems development
+- Modular and reusable architectures
+
+### Gameplay & Systems
+- Meta-progression systems (upgrades, rewards, cosmetics)
+- AI opponents with multiple difficulty levels
+- Physics-based interactions & gunplay feel
+- Destruction and feedback systems
+- State machines and event-driven logic
+
+### Procedural & Data-Driven
+- Procedural content generation
+- JSON-driven game data and configurations
+- Hex-grid based gameplay systems
+
+### Tools & Workflow
+- Unity Package Manager (custom packages)
+- Git / GitHub
+- JetBrains Rider
+- JetBrains PyCharm
+- Visual Studio
+- Debugging & profiling
+- Iterative prototyping and live updates
+
+### Platforms
+- Web (Unity WebGL / Yandex Games)
+- Mobile (Android, Google Play)
+- PC (Windows)
+
+---
 
 ## 🔗 Links
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/KasaiFudo)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/kasaifudo)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/taimastavern)
+[![LinkedIn]([https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white](https://img.shields.io/badge/LinkedIn?logo=LinkedIn
+))](https://www.linkedin.com/in/matvei-katkov/)
