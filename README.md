@@ -18,7 +18,7 @@ I also run D&D streams, tabletop games and other games — which helps a lot wit
 
 ## 🧩 Projects
 
-###Main
+### Main
 
 -**[Dynamic UI Panels — Unity Package](https://github.com/KasaiFudo/DynamicPanels)**  
   Data-driven UI system for building dynamic panels at runtime.
@@ -39,7 +39,7 @@ I also run D&D streams, tabletop games and other games — which helps a lot wit
 - Built-in update service prefab
 - Editor tools for testing and configuration
 
-###Archive - ⚠️ Legacy projects
+### Archive - ⚠️ Legacy projects
 
 - **[Mini Pinball](https://taimas-tavern.itch.io/mini-pinball)**  
   A modern reinterpretation of classic pinball mechanics.  
