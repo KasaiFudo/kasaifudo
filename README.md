@@ -18,9 +18,31 @@ I also run D&D streams, tabletop games and other games — which helps a lot wit
 
 ## 🧩 Projects
 
+###Main
+-**[Dynamic UI Panels — Unity Package](https://github.com/KasaiFudo/DynamicPanels)**  
+  Data-driven UI system for building dynamic panels at runtime.
+
+- Runtime panel generation based on data context
+- Flexible data binding via `IDataContext`
+- Conditional field visibility
+- Extensible field & renderer system
+- Designed for tools, debug panels, and in-game editors
+
+-**[Responsive Orientation UI — Unity Package](https://github.com/KasaiFudo/ScreenOrientation)**  
+  Runtime system for handling portrait / landscape UI transitions.
+
+- Automatic orientation detection
+- Smooth animated layout transitions
+- Debounce handling for rapid rotation changes
+- Runtime component discovery
+- Built-in update service prefab
+- Editor tools for testing and configuration
+
+###Archive - ⚠️ Legacy projects
+
 - **[Mini Pinball](https://taimas-tavern.itch.io/mini-pinball)**  
   A modern reinterpretation of classic pinball mechanics.  
-  → Physics tuning, scoring systems, moment-to-moment game feel  
+  → Physics tuning, scoring systems, moment-to-moment game feel 
   → [Repository](https://github.com/KasaiFudo/MiniPinball)
 
 - **[Endless Terrain Map Generation](https://github.com/KasaiFudo/EndlessMapGeneration)**  
@@ -111,5 +133,4 @@ Casual games, mobile & web platforms
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/KasaiFudo)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/kasaifudo)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/taimastavern)
-[![LinkedIn]([https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white](https://img.shields.io/badge/LinkedIn?logo=LinkedIn
-))](https://www.linkedin.com/in/matvei-katkov/)
+[![LinkedIn]([https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white](https://img.shields.io/badge/LinkedIn?logo=LinkedIn)](https://www.linkedin.com/in/matvei-katkov/)
