@@ -19,6 +19,7 @@ I also run D&D streams, tabletop games and other games — which helps a lot wit
 ## 🧩 Projects
 
 ###Main
+
 -**[Dynamic UI Panels — Unity Package](https://github.com/KasaiFudo/DynamicPanels)**  
   Data-driven UI system for building dynamic panels at runtime.
 
@@ -118,6 +119,8 @@ Casual games, mobile & web platforms
 - JetBrains Rider
 - JetBrains PyCharm
 - Visual Studio
+- Photoshop
+- Blender3D
 - Debugging & profiling
 - Iterative prototyping and live updates
 
@@ -130,7 +133,6 @@ Casual games, mobile & web platforms
 
 ## 🔗 Links
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/KasaiFudo)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/kasaifudo)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/taimastavern)
-[![LinkedIn]([https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white](https://img.shields.io/badge/LinkedIn?logo=LinkedIn)](https://www.linkedin.com/in/matvei-katkov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matvei-katkov/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KasaiFudo)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/taimastavern)
