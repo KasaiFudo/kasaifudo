@@ -98,8 +98,8 @@ Casual games, mobile & web platforms
 ### Core
 - Unity (2D / 3D)
 - C#
-- Gameplay systems development
-- Modular and reusable architectures
+- SOLID
+- OOP
 
 ### Gameplay & Systems
 - Meta-progression systems (upgrades, rewards, cosmetics)
@@ -107,11 +107,7 @@ Casual games, mobile & web platforms
 - Physics-based interactions & gunplay feel
 - Destruction and feedback systems
 - State machines and event-driven logic
-
-### Procedural & Data-Driven
-- Procedural content generation
-- JSON-driven game data and configurations
-- Hex-grid based gameplay systems
+- And other
 
 ### Tools & Workflow
 - Unity Package Manager (custom packages)
